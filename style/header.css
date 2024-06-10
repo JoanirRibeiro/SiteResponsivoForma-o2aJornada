@@ -4,3 +4,8 @@
     background-image: url("Menu.svg");
     display: inline-block;
 }
+
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+}
