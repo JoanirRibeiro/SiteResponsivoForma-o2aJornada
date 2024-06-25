@@ -19,6 +19,15 @@
     padding: 1em;
 }
 
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.container__imagem {
+    padding: 1em;
+}
+
 .lista-menu{
     display: none;
 }
