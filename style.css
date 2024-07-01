@@ -12,7 +12,7 @@
 
 body {
     background-color: var(--cor-de-fundo);
-    font-family: var(--onte-principal);
+    font-family: var(--fonte-principal);
     font-size: 14px;
     font-weigth: 400;
 }
