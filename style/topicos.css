@@ -1,5 +1,5 @@
 .topicos {
-    background: var(--azul-degrade);
+    background:var();
     text-align: center;
     padding: 1em 0;
 }
@@ -8,6 +8,7 @@
     color: var(--branco);
     font-weight: 300;
     margin-bottom: 1em;
+    padding: 2em;
 }
 
 .topicos__lista {
