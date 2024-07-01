@@ -16,6 +16,10 @@
     justify-content: center;
 }
 
+.topicos__itens {
+    margin:2em 0.5em;
+}
+
 .topicos__link {
     color: var(--branco);
     padding:1em;
@@ -25,6 +29,3 @@
     font-weight: 700;
 }
 
-.topicos__itens {
-    margin:2em 0.5em;
-}
