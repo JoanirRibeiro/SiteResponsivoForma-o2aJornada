@@ -45,6 +45,7 @@
 
 .lista-menu__titulo {
     color: var(--laranja);
+    background-color: var(--branco);
 }
 
 .lista-menu__link {
