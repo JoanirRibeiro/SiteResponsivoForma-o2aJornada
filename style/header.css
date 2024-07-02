@@ -39,8 +39,10 @@
 }
 
 .lista-menu__item {
-    padding: 1em;
+    padding: 2em;
     background-color: var(--branco);
+    font-weight: 700;
+    
 }
 
 .lista-menu__titulo {
