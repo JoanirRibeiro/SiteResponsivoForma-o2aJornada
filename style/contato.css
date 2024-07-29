@@ -3,7 +3,7 @@
     padding: 1em;
 }
 
-.contato__titulo{
+.contato__titulo {
     font-size: 18px;
     font-weight: 500;
 }
@@ -13,7 +13,8 @@
     margin: 1em 0;
 }
 
-.contato__titulo, .contato__texto{
+.contato__titulo,
+.contato__texto {
     background: var(--azul-degrade);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
