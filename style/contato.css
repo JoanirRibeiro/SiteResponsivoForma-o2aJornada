@@ -11,6 +11,9 @@
 .contato__texto {
     font-weight: 300;
     margin: 1em 0;
+}
+
+.contato__titulo, .contato__texto{
     background: var(--azul-degrade);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
