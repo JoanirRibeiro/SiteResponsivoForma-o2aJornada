@@ -63,38 +63,46 @@
     display: none;
 }
 
-.container__titulo{
+.container__titulo {
     display: none;
 }
 
-.opcoes{
+.opcoes {
     display: none;
 }
 
-@media screen and (min-width: 1024px){
-    .container__titulo{
+@media screen and (min-width: 1024px) {
+    .container__titulo {
         font-family: var(--fonte-secundaria);
         font-size: 30px;
         font-weight: 400;
         display: block;
     }
-      .container__titulo--negrito{
+
+    .container__titulo--negrito {
         font-weight: 700;
     }
-    .opcoes{
+
+    .opcoes {
         display: flex;
     }
-    .opcoes__item{
-        padding:2em;
+
+    .opcoes__item {
+        padding: 2em;
         text-transform: uppercase;
     }
-    .opcoes__link{
+
+    .opcoes__link {
         text-decoration: none;
         color: var(--preto);
     }
 
-    .container__imagem-transparente{
+    .container__imagem-transparente {
         display: none;
-  }
-  
+    }
+
+    .cabecalho__menu-hamburger {
+        display: none;
+    }
+
 }
