@@ -107,6 +107,10 @@
 
 }
 
+.container__texto{
+    display: none;
+}
+
 @media screen and (min-width: 1250px) {
     .container__link{
         display: flex;
@@ -123,4 +127,7 @@
         margin-right: auto;
     }
 
+    .container__texto{
+        display:block;
+    
 }
